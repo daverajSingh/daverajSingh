@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daverajSingh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning BSc Computer Science at University of Southampton
-- 📫 How to reach me:
+- 📫 How to reach me: "/n"
      Email: daveraj.singh@outlook.com
      LinkedIn: www.linkedin.com/in/DaverajNothay
 
