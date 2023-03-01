@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daverajSingh
-- 👀 I’m interested in Java, C#, C and Python related projects 
+- 👀 I’m have experience in Java, C#, C/C++, Haskell, JavaScript and Python related projects. 
 - 🌱 I’m currently learning BSc Computer Science at University of Southampton
 - 📫 How to reach me 
      Email: daveraj.singh@outlook.com
