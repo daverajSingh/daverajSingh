@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @daverajSingh
-- 👀 I’m have experience in Java, C#, C/C++, Haskell, JavaScript and Python related projects. 
-- 🌱 I’m currently a 2nd Year Student at University of Southampton studying BSc Computer Science
-- 📫 How to reach me 
-     Email: daveraj.singh@outlook.com
-     LinkedIn: www.linkedin.com/in/DaverajNothay
+- Hi, I’m @daverajSingh - Daveraj Singh Nothay
+- I have experience in Java, C#, C/C++, Haskell, JavaScript and Python related projects. 
+- I’m currently a 2nd Year Student at University of Southampton studying BSc Computer Science
+- How to reach me 
+  Email: daveraj.singh@outlook.com
+  LinkedIn: www.linkedin.com/in/DaverajNothay
 
 <!---
 daverajSingh/daverajSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
