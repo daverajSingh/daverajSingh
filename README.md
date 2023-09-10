@@ -1,9 +1,9 @@
-- Hi, I’m @daverajSingh - Daveraj Singh Nothay
+- Hi, I’m @daverajSingh
 - I have experience in Java, C#, C/C++, Haskell, JavaScript and Python related projects. 
-- I’m currently a 2nd Year Student at University of Southampton studying BSc Computer Science
+- I’m currently a 3rd Year Student at University of Southampton studying MEng Computer Science
 - How to reach me:
-               <br> Email: daveraj.singh@outlook.com 
-               LinkedIn: www.linkedin.com/in/DaverajNothay </br>
+    - [Email - Daveraj Singh Nothay](mailto:daveraj.singh@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+    - [LinkedIn](www.linkedin.com/in/DaverajNothay) 
 
 <!---
 daverajSingh/daverajSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
