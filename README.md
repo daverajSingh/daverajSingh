@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Daveraj!</h1>
-<h3 align="center">4th Year MEng Computer Science with AI Student at University of Southampton 📖</h3>
+<h3 align="center">MEng Computer Science with AI Graduate at University of Southampton 📖</h3>
 <p align="center">
 Experienced in Java, C#, C/C++, Haskell, JS/TS, React and Python. 
 </p>
