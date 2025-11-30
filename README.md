@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Daveraj!</h1>
-<h3 align="center">Graduate Software Engineer @ <img align="center" height=40 src="http://upload.wikimedia.org/wikipedia/en/a/a6/Sky_Group_logo_2020.svg"/></h3>
+<h3 align="center">Graduate Software Engineer @ Sky</h3>
 <h3 align="center">MEng Computer Science with AI Graduate @ <img align="center" height=36 src="https://cdn.brandfetch.io/idEz5hppwu/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155490617"/></h3>
 <p align="center">
 Experienced in Java, C#, C/C++, Haskell, JS/TS, React and Python. 
